@@ -1,8 +1,8 @@
 # Conversor_Moneda
 ### Dollar a Libras esterlinas
 
-
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+<img src="https://github.com/Antonio1138/Conversor_Moneda/blob/master/app/src/main/res/drawable/currency.jpeg" alt="notes"
+  width="300" height="150"/>
 
 ## Descripción
 
