@@ -2,6 +2,8 @@
 ### Dollar a Libras esterlinas
 
 
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
 ## Descripción
 
 Esta sencilla aplicación tiene como objetivo introducir una cantidad en dólares y que pulsando el botón "Convert" nos muestre la cantidad correspondiente en libras esterlinas.
